@@ -32,6 +32,10 @@
 - [x] 3.5 - [Sort Stack](lib/data-structures/chapter-3/3_5.js)
 - [ ] 3.6 - Animal Shelter
 
+
+#### Chapter 10
+- [x] 10.1 - [Sorted Merge](lib/data-structures/chapter-10/10_1.js)
+
 <br>
 
 ## Install dependencies:
