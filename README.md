@@ -3,7 +3,7 @@
 <br>
 
 ## Question List:
-
+ 
 #### Chapter 1
 - [x] 1.1 - [Is Unique](lib/data-structures/chapter-1/1_1.js)
 - [x] 1.2 - [Check Permutation](lib/data-structures/chapter-1/1_2.js)
@@ -23,7 +23,6 @@
 - [x] 2.6 - [Check if Linkedlist is Palindrome](lib/data-structures/chapter-2/2_6.js)
 - [x] 2.8 - [Detection Loop](lib/data-structures/chapter-2/2_8.js)
 
-
 #### Chapter 3
 - [ ] 3.1 - Three in One
 - [ ] 3.2 - Stack Min
@@ -31,6 +30,7 @@
 - [ ] 3.4 - Queue via Stacks
 - [x] 3.5 - [Sort Stack](lib/data-structures/chapter-3/3_5.js)
 - [ ] 3.6 - Animal Shelter
+- 
 
 
 #### Chapter 10
