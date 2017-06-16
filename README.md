@@ -30,6 +30,7 @@
 - [ ] 3.4 - Queue via Stacks
 - [x] 3.5 - [Sort Stack](lib/data-structures/chapter-3/3_5.js)
 - [x] 3.6 - Animal Shelter
+- [] 3.
 - 
 
 
