@@ -32,7 +32,7 @@
 - [x] 3.6 - Animal Shelter
 - [] 3.
 - 
-
+#### Chapter 4
 
 #### Chapter 10
 - [x] 10.1 - [Sorted Merge](lib/data-structures/chapter-10/10_1.js)
